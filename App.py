@@ -13,5 +13,5 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 # Add Multiply numbers
 sum = float(num1) * float(num2)
  Add subtract numbers
-sum = float(num2) - float(num1)
+sub = float(num2) - float(num1)
 
